@@ -741,8 +741,8 @@ figure {
 }
 
 .logo {
-  width: 55px;
-  height: 50px;
+  width: 125px;
+  height: 114px;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   background-image: url("../assets/favicon/download.png");
   background-repeat: no-repeat;
@@ -758,13 +758,14 @@ figure {
 }
 @media (max-width: 768px) {
   .logo {
-    width: 50px;
+    width: 110px;
+    height: 100px;
   }
 }
 @media (max-width: 320px) {
   .logo {
-    width: 45px;
-    height: 40px;
+    width: 95px;
+    height: 86px;
   }
 }
 
